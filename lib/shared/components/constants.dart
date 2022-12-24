@@ -1,0 +1,11 @@
+String payMobApiKey ='ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmpiR0Z6Y3lJNklrMWxjbU5vWVc1MElpd2libUZ0WlNJNkltbHVhWFJwWVd3aUxDSndjbTltYVd4bFgzQnJJam8yTkRrMk9EWjkubEF0bmVlV1hIbW5fTjhjbG1qUHZraE85Qnlmd2htMDBZWHRnVkpLX3VvLS1KVmN5SzZHWk1mOU1OS282aUJ4dXVFV1VCdE41TWNjNDB0M0VwbHJsbGc==';
+String integrationIdKiosk='3176314';
+String integrationIdCard='3173481';
+String vodafoneIntegrationIdCard='3191882';
+String payMobToken='';
+String payMobOrderId='';
+String payMobFinalTokenCard='';
+String payMobFinalTokenKiosk='';
+String kioskReferenceCode='';
+String vodafoneUrl='';
+String payMobFinalTokenVodafone='';
