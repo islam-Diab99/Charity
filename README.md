@@ -1,16 +1,33 @@
-# charity
+# Charity App
 
-A new Flutter project.
+![Charity App Logo](link-to-logo-or-screenshot)
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+**Charity App** is a mobile application aimed at helping homeless individuals by facilitating donations through a variety of payment methods. With this app, users can easily donate money using credit cards, reference codes, or mobile wallets. The app's intuitive design and secure payment gateway ensure a seamless donation experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Multiple Payment Options**: 
+  - Credit Card
+  - Reference Code
+  - Mobile Wallets
+- **User Authentication**: Secure sign-in and sign-up functionality.
+- **Donation Tracking**: Users can track their donations and see the impact of their contributions.
+- **Responsive Design**: Optimized for both Android and iOS platforms.
+- **Real-time Updates**: Users get notifications about recent campaigns and donation progress.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+| Home Screen             | Payment Screen         | Donation History     |
+|-------------------------|------------------------|----------------------|
+| ![Home Screen](link1)   | ![Payment Screen](link2) | ![Donation History](link3) |
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/islam-Diab99/Charity.git
+   cd Charity
