@@ -11,8 +11,6 @@
   - Credit Card
   - Reference Code
   - Mobile Wallets
-- 🔐 **User Authentication**: Secure sign-in and sign-up functionality.
-- 📊 **Donation Tracking**: Users can track their donations and see the impact of their contributions.
 - 📱 **Responsive Design**: Optimized for both Android and iOS platforms.
 - 🔔 **Real-time Updates**: Users get notifications about recent campaigns and donation progress.
 
@@ -48,11 +46,6 @@ To run this project locally, follow these steps:
 - 🚀 **Flutter**: Cross-platform framework for mobile development.
 - 🌐 **Dio**: HTTP client for API calls.
 - 🏦 **Payment Gateway API**: Integration with a secure payment gateway.
-- 🔥 **Firebase**: For authentication and real-time data.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](link-to-license-file) file for details.
 
 ## 📞 Contact
 
