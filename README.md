@@ -1,6 +1,5 @@
 # 🏠 Charity App
 
-![Charity App Logo](link-to-logo-or-screenshot)
 
 ## 📖 Overview
 
@@ -20,6 +19,9 @@
 ## 📸 Screenshots
 
 
+| register Screen | Home Screen|
+|---------|---------|
+| ![Image 1](https://github.com/islam-Diab99/Charity/blob/main/register%20image.jpg) | ![Image 2](https://github.com/islam-Diab99/Charity/blob/main/home%20image.jpg) |
 
 ## 🛠️ Installation
 
@@ -54,5 +56,5 @@ This project is licensed under the MIT License. See the [LICENSE](link-to-licens
 
 ## 📞 Contact
 
-If you have any questions or suggestions, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/islamdiab0/) or email: islamdiab99@gmail.com.
+If you have any questions or suggestions, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/islamdiab0/) or email: idiab604@gmail.com.
 
